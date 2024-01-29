@@ -31,9 +31,8 @@ body{
     height: 100vh;
     width: 100vw;
     background-color: var(--Eggshell);
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display: grid;
+    place-items: center;
 }
 
 .container{
